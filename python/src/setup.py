@@ -19,7 +19,7 @@ CLASSIFIERS = [
 setup(
     name='chirpstack-api',
     version = "3.9.5",
-    url='https://github.com/brocaar/chirpstack-api',
+    url='https://github.com/andrewflash/benam-lora-api',
     author='Orne Brocaar',
     author_email='info@brocaar.com',
     license='MIT',

@@ -5,7 +5,7 @@ version = "3.9.5"
 authors = ["Orne Brocaar <info@brocaar.com>"]
 license = "MIT"
 homepage = "https://www.chirpstack.io"
-repository = "https://github.com/brocaar/chirpstack-api"
+repository = "https://github.com/andrewflash/benam-lora-api"
 edition = "2018"
 
 [features]
